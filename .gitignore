@@ -1,5 +1,4 @@
-node_modules/
-*.js
+# Ignore compiled JS maps and build folders
 *.js.map
 dist/
 out/
